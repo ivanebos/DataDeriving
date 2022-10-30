@@ -1,2 +1,2 @@
-# Data_Manipulating
-Data functions manipulating sets
+# Data Deriving
+Different functions deriving specific information from data sets
